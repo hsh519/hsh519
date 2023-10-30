@@ -16,8 +16,8 @@
 <a href="https://hsh519.tistory.com">https://hsh519.tistory.com</a>
 </div>
 
+<hr />
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=hsh519&theme=vue&show_icons=true">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghd0519">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsh519">
 </div>
